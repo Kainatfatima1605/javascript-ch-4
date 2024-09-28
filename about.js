@@ -12,6 +12,7 @@ _super
 $price
 vanish2
 camelCaseName
+snakCase
 
 ///////// Illegal Variable Names:
 
